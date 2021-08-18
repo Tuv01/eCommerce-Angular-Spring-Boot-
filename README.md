@@ -1,2 +1,2 @@
-# Full-Stack-Angular-and-Java-Spring-Boot
+# Realtime eCommerce App
 eCommerce Project using Angular and Java Spring Boot
